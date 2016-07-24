@@ -1,2 +1,2 @@
 # sentra
-repositorio de prueba
+repositorio de prueba de la rama desarrollo
